@@ -1,3 +1,17 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://sven-s.de/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Svens blog'
+theme = 'mainroadupdate'
+
+[params]
+  author = 'Sven Sönnichsen'
+
+  [[params.social]]
+    icon = "github"
+    name = "GitHub"
+    url = "https://github.com/sven-s"
+
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/sven_s"
