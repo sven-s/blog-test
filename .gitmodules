@@ -1,0 +1,3 @@
+[submodule "themes/mainroadupdate"]
+	path = themes/mainroadupdate
+	url = https://github.com/vimux/mainroad.git
