@@ -1,4 +1,4 @@
-baseURL = 'https://sven-s.de/'
+baseURL = 'https://sven-s.github.io/blog-test/'
 languageCode = 'en-us'
 title = 'Svens blog'
 theme = 'mainroadupdate'
